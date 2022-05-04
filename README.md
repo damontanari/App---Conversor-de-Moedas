@@ -31,14 +31,3 @@ Nessa aplicação foi desenvolvido um simples conversor de moedas, convertendo p
 - [Flutter](https://flutter.dev/)
 
 <br/>
-
-<!-- about me -->
-
-## About me @Dev
-
-Follow me on Twitter: [@samuelmataraso](https://twitter.com/samuelmataraso)
-
-<a href="https://twitter.com/samuelmataraso" target="_blank">
-<img src="https://twitter.com/samuelmataraso/profile_image?size=original" height="100" /></a>
-
-<!-- about me  END -->
